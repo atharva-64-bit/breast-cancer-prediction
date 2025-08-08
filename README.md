@@ -1,4 +1,3 @@
-
 # 🩺 Breast Cancer Prediction SaaS Platform
 
 An intelligent web-based SaaS solution designed for pathology labs and doctors to predict the presence and stage of breast cancer using machine learning, featuring secure license-based access and health recommendations.
