@@ -1,6 +1,4 @@
-Here is a complete README.md file tailored for your Breast Cancer Prediction SaaS Platform using Streamlit and Random Forest, with license verification for labs:
 
-```markdown
 # 🩺 Breast Cancer Prediction SaaS Platform
 
 An intelligent web-based SaaS solution designed for pathology labs and doctors to predict the presence and stage of breast cancer using machine learning, featuring secure license-based access and health recommendations.
@@ -145,6 +143,6 @@ GitHub: [@atharva-64-bit](https://github.com/atharva-64-bit)
 
 ```
 
-Let me know if you also want a requirements.txt file or deployment instructions for Streamlit Cloud.
+
 ```
 
