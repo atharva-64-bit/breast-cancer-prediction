@@ -138,8 +138,6 @@ GitHub: [@atharva-64-bit](https://github.com/atharva-64-bit)
 * Streamlit for seamless UI creation
 * Scikit-learn for robust model implementation
 
----
-
 ```
 
 
