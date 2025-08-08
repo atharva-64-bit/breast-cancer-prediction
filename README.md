@@ -119,11 +119,6 @@ An intelligent web-based SaaS solution designed for pathology labs and doctors t
 
 ---
 
-## 📄 License
-
-This project is licensed for academic/non-commercial use only. See [LICENSE](LICENSE) for details.
-
----
 
 ## ✨ Author
 
