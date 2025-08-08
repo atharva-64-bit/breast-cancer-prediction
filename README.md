@@ -70,7 +70,7 @@ An intelligent web-based SaaS solution designed for pathology labs and doctors t
    ```bash
    git clone https://github.com/your-username/breast-cancer-prediction.git
    cd breast-cancer-prediction
-````
+
 
 2. Create virtual environment:
 
