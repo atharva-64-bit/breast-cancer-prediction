@@ -1,0 +1,13 @@
+altair==5.5.0
+joblib==1.4.2
+numpy==2.2.1
+pandas==2.2.3
+matplotlib==3.10.1
+scikit-learn==1.6.1
+seaborn==0.13.2
+streamlit==1.43.2
+plotly==6.0.0
+fpdf==1.7.2
+waitress==2.1.2
+Django>=5.1.7
+djangorestframework
