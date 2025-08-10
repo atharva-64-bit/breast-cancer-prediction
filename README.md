@@ -1,6 +1,6 @@
 # 🩺 Breast Cancer Prediction SaaS Platform
 
-An intelligent web-based SaaS solution designed for pathology labs and doctors to predict the presence and stage of breast cancer using machine learning, featuring secure license-based access and health recommendations.
+An intelligent web-based solution designed for pathology labs and doctors to predict the presence and stage of breast cancer using machine learning, featuring secure license-based access and health recommendations.
 
 ---
 
@@ -108,12 +108,26 @@ An intelligent web-based SaaS solution designed for pathology labs and doctors t
 
 ## 🧪 Sample Input Features
 
-| Feature                   | Description                             |
-| ------------------------- | --------------------------------------- |
-| radius\_mean              | Mean of distances from center to points |
-| texture\_mean             | Standard deviation of gray-scale values |
-| ...                       | ...                                     |
-| fractal\_dimension\_worst | "Worst" fractal dimension               |
+| Feature                   | Description                                           |
+| ------------------------- | ----------------------------------------------------- |
+| radius\_mean              | Mean of distances from center to perimeter points     |
+| texture\_mean             | Standard deviation of gray-scale pixel values         |
+| perimeter\_mean           | Mean size of the tumor perimeter                      |
+| area\_mean                | Average area of the tumor                             |
+| smoothness\_mean          | Mean variation in radius lengths                      |
+| compactness\_mean         | Mean of (perimeter² / area − 1.0)                     |
+| concavity\_mean           | Mean severity of concave portions of the contour      |
+| concave\_points\_mean     | Mean number of concave portions of the contour        |
+| symmetry\_mean            | Mean symmetry of the tumor shape                      |
+| fractal\_dimension\_mean  | Mean complexity of the contour                        |
+| radius\_worst             | Largest value for radius across all measurements      |
+| texture\_worst            | Largest standard deviation of gray-scale pixel values |
+| perimeter\_worst          | Largest tumor perimeter recorded                      |
+| area\_worst               | Largest tumor area recorded                           |
+| concavity\_worst          | Largest severity of concave portions of the contour   |
+| concave\_points\_worst    | Largest number of concave portions of the contour     |
+| fractal\_dimension\_worst | Highest complexity of the contour                     |
+
 
 (30 total diagnostic features)
 
